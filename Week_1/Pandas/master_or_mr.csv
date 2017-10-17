@@ -1,0 +1,557 @@
+1	Braund, Mr. Owen Harris
+5	Allen, Mr. William Henry
+6	Moran, Mr. James
+7	McCarthy, Mr. Timothy J
+8	Palsson, Master. Gosta Leonard
+13	Saundercock, Mr. William Henry
+14	Andersson, Mr. Anders Johan
+17	Rice, Master. Eugene
+18	Williams, Mr. Charles Eugene
+21	Fynney, Mr. Joseph J
+22	Beesley, Mr. Lawrence
+24	Sloper, Mr. William Thompson
+27	Emir, Mr. Farred Chehab
+28	Fortune, Mr. Charles Alexander
+30	Todoroff, Mr. Lalio
+34	Wheadon, Mr. Edward H
+35	Meyer, Mr. Edgar Joseph
+36	Holverson, Mr. Alexander Oskar
+37	Mamee, Mr. Hanna
+38	Cann, Mr. Ernest Charles
+43	Kraeff, Mr. Theodor
+46	Rogers, Mr. William John
+47	Lennon, Mr. Denis
+49	Samaan, Mr. Youssef
+51	Panula, Master. Juha Niilo
+52	Nosworthy, Mr. Richard Cater
+55	Ostby, Mr. Engelhart Cornelius
+56	Woolner, Mr. Hugh
+58	Novel, Mr. Mansouer
+60	Goodwin, Master. William Frederick
+61	Sirayanian, Mr. Orsen
+63	Harris, Mr. Henry Birkhardt
+64	Skoog, Master. Harald
+65	Stewart, Mr. Albert A
+66	Moubarek, Master. Gerios
+68	Crease, Mr. Ernest James
+70	Kink, Mr. Vincenz
+71	Jenkin, Mr. Stephen Curnow
+73	Hood, Mr. Ambrose Jr
+74	Chronopoulos, Mr. Apostolos
+75	Bing, Mr. Lee
+76	Moen, Mr. Sigurd Hansen
+77	Staneff, Mr. Ivan
+78	Moutal, Mr. Rahamin Haim
+79	Caldwell, Master. Alden Gates
+81	Waelens, Mr. Achille
+82	Sheerlinck, Mr. Jan Baptist
+84	Carrau, Mr. Francisco M
+87	Ford, Mr. William Neal
+88	Slocovski, Mr. Selman Francis
+90	Celotti, Mr. Francesco
+91	Christmann, Mr. Emil
+92	Andreasson, Mr. Paul Edvin
+93	Chaffee, Mr. Herbert Fuller
+94	Dean, Mr. Bertram Frank
+95	Coxon, Mr. Daniel
+96	Shorney, Mr. Charles Joseph
+97	Goldschmidt, Mr. George B
+98	Greenfield, Mr. William Bertram
+100	Kantor, Mr. Sinai
+102	"Petroff, Mr. Pastcho (""Pentcho"")"
+103	White, Mr. Richard Frasar
+104	Johansson, Mr. Gustaf Joel
+105	Gustafsson, Mr. Anders Vilhelm
+106	Mionoff, Mr. Stoytcho
+108	Moss, Mr. Albert Johan
+109	Rekic, Mr. Tido
+111	Porter, Mr. Walter Chamberlain
+113	Barton, Mr. David John
+116	Pekoniemi, Mr. Edvard
+117	Connors, Mr. Patrick
+118	Turpin, Mr. William John Robert
+119	Baxter, Mr. Quigg Edmond
+121	Hickman, Mr. Stanley George
+122	Moore, Mr. Leonard Charles
+123	Nasser, Mr. Nicholas
+125	White, Mr. Percival Wayland
+126	Nicola-Yarred, Master. Elias
+127	McMahon, Mr. Martin
+128	Madsen, Mr. Fridtjof Arne
+130	Ekstrom, Mr. Johan
+131	Drazenoic, Mr. Jozef
+132	Coelho, Mr. Domingos Fernandeo
+135	Sobey, Mr. Samuel James Hayden
+136	Richard, Mr. Emile
+138	Futrelle, Mr. Jacques Heath
+139	Osen, Mr. Olaf Elon
+140	Giglio, Mr. Victor
+144	Burke, Mr. Jeremiah
+145	Andrew, Mr. Edgardo Samuel
+146	Nicholls, Mr. Joseph Charles
+147	"Andersson, Mr. August Edvard (""Wennerstrom"")"
+149	"Navratil, Mr. Michel (""Louis M Hoffman"")"
+153	Meo, Mr. Alfonzo
+154	van Billiard, Mr. Austin Blyler
+155	Olsen, Mr. Ole Martin
+156	Williams, Mr. Charles Duane
+158	Corn, Mr. Harry
+159	Smiljanic, Mr. Mile
+160	Sage, Master. Thomas Henry
+161	Cribb, Mr. John Hatfield
+163	Bengtsson, Mr. John Viktor
+164	Calic, Mr. Jovo
+165	Panula, Master. Eino Viljami
+166	"Goldsmith, Master. Frank John William ""Frankie"""
+169	Baumann, Mr. John D
+170	Ling, Mr. Lee
+171	Van der hoef, Mr. Wyckoff
+172	Rice, Master. Arthur
+174	Sivola, Mr. Antti Wilhelm
+175	Smith, Mr. James Clinch
+176	Klasen, Mr. Klas Albin
+177	Lefebre, Master. Henry Forbes
+179	Hale, Mr. Reginald
+180	Leonard, Mr. Lionel
+182	Pernot, Mr. Rene
+183	Asplund, Master. Clarence Gustaf Hugo
+184	Becker, Master. Richard F
+186	Rood, Mr. Hugh Roscoe
+188	"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")"
+189	Bourke, Mr. John
+190	Turcin, Mr. Stjepan
+192	Carbines, Mr. William
+194	Navratil, Master. Michel M
+197	Mernagh, Mr. Robert
+198	Olsen, Mr. Karl Siegwart Andreas
+201	Vande Walle, Mr. Nestor Cyriel
+202	Sage, Mr. Frederick
+203	Johanson, Mr. Jakob Alfred
+204	Youseff, Mr. Gerious
+205	"Cohen, Mr. Gurshon ""Gus"""
+207	Backstrom, Mr. Karl Alfred
+208	Albimona, Mr. Nassef Cassem
+210	Blank, Mr. Henry
+211	Ali, Mr. Ahmed
+213	Perkin, Mr. John Henry
+214	Givard, Mr. Hans Kristensen
+215	Kiernan, Mr. Philip
+218	Jacobsohn, Mr. Sidney Samuel
+220	Harris, Mr. Walter
+221	Sunderland, Mr. Victor Francis
+222	Bracken, Mr. James H
+223	Green, Mr. George Henry
+224	Nenkoff, Mr. Christo
+225	Hoyt, Mr. Frederick Maxfield
+226	Berglund, Mr. Karl Ivar Sven
+227	Mellors, Mr. William John
+228	"Lovell, Mr. John Hall (""Henry"")"
+229	Fahlstrom, Mr. Arne Jonas
+232	Larsson, Mr. Bengt Edvin
+233	Sjostedt, Mr. Ernst Adolf
+235	Leyson, Mr. Robert William Norman
+237	Hold, Mr. Stephen
+239	Pengelly, Mr. Frederick William
+240	Hunt, Mr. George Henry
+243	Coleridge, Mr. Reginald Charles
+244	Maenpaa, Mr. Matti Alexanteri
+245	Attalah, Mr. Sleiman
+249	Beckwith, Mr. Richard Leonard
+251	Reed, Mr. James George
+253	Stead, Mr. William Thomas
+254	Lobb, Mr. William Arthur
+261	Smith, Mr. Thomas
+262	Asplund, Master. Edvin Rojj Felix
+263	Taussig, Mr. Emil
+264	Harrison, Mr. William
+266	Reeves, Mr. David
+267	Panula, Mr. Ernesti Arvid
+268	Persson, Mr. Ernst Ulrik
+271	Cairns, Mr. Alexander
+272	Tornquist, Mr. William Henry
+274	Natsch, Mr. Charles H
+278	"Parkes, Mr. Francis ""Frank"""
+279	Rice, Master. Eric
+281	Duane, Mr. Frank
+282	Olsson, Mr. Nils Johan Goransson
+283	de Pelsmaeker, Mr. Alfons
+284	Dorking, Mr. Edward Arthur
+285	Smith, Mr. Richard William
+286	Stankovic, Mr. Ivan
+287	de Mulder, Mr. Theodore
+288	Naidenoff, Mr. Penko
+289	Hosono, Mr. Masabumi
+293	Levy, Mr. Rene Jacques
+295	Mineff, Mr. Ivan
+296	Lewy, Mr. Ervin G
+297	Hanna, Mr. Mansour
+299	Saalfeld, Mr. Adolphe
+302	McCoy, Mr. Bernard
+303	Johnson, Mr. William Cahoone Jr
+305	"Williams, Mr. Howard Hugh ""Harry"""
+306	Allison, Master. Hudson Trevor
+309	Abelson, Mr. Samuel
+314	Hendekovic, Mr. Ignjac
+315	Hart, Mr. Benjamin
+321	Dennis, Mr. Samuel
+322	Danoff, Mr. Yoto
+325	Sage, Mr. George John Jr
+327	Nysveen, Mr. Johan Hansen
+332	Partner, Mr. Austen
+333	Graham, Mr. George Edward
+334	Vander Planke, Mr. Leo Edmondus
+336	Denkoff, Mr. Mitto
+337	Pears, Mr. Thomas Clinton
+339	Dahl, Mr. Karl Edwart
+340	Blackwell, Mr. Stephen Weart
+341	Navratil, Master. Edmond Roger
+343	Collander, Mr. Erik Gustaf
+344	Sedgwick, Mr. Charles Frederick Waddington
+345	Fox, Mr. Stanley Hubert
+349	"Coutts, Master. William Loch ""William"""
+350	Dimic, Mr. Jovan
+351	Odahl, Mr. Nils Martin
+352	Williams-Lambert, Mr. Fletcher Fellows
+353	Elias, Mr. Tannous
+354	Arnold-Franchi, Mr. Josef
+355	Yousif, Mr. Wazli
+356	Vanden Steen, Mr. Leo Peter
+361	Skoog, Mr. Wilhelm
+362	del Carlo, Mr. Sebastiano
+364	Asim, Mr. Adola
+365	O'Brien, Mr. Thomas
+366	Adahl, Mr. Mauritz Nils Martin
+371	Harder, Mr. George Achilles
+372	Wiklund, Mr. Jakob Alfred
+373	Beavan, Mr. William Thomas
+374	Ringhini, Mr. Sante
+378	Widener, Mr. Harry Elkins
+379	Betros, Mr. Tannous
+380	Gustafsson, Mr. Karl Gideon
+383	Tikkanen, Mr. Juho
+385	Plotcharsky, Mr. Vasil
+386	Davies, Mr. Charles Henry
+387	Goodwin, Master. Sidney Leonard
+389	Sadlier, Mr. Matthew
+391	Carter, Mr. William Ernest
+392	Jansson, Mr. Carl Olof
+393	Gustafsson, Mr. Johan Birger
+396	Johansson, Mr. Erik
+398	McKane, Mr. Peter David
+401	Niskanen, Mr. Juha
+402	Adams, Mr. John
+404	Hakkarainen, Mr. Pekka Pietari
+406	Gale, Mr. Shadrach
+407	Widegren, Mr. Carl/Charles Peter
+408	Richards, Master. William Rowe
+409	Birkeland, Mr. Hans Martin Monsen
+411	Sdycoff, Mr. Todor
+412	Hart, Mr. Henry
+414	Cunningham, Mr. Alfred Fleming
+415	Sundman, Mr. Johan Julian
+419	Matthews, Mr. William John
+421	Gheorgheff, Mr. Stanio
+422	Charters, Mr. David
+423	Zimmerman, Mr. Leo
+425	Rosblom, Mr. Viktor Richard
+426	Wiseman, Mr. Phillippe
+429	Flynn, Mr. James
+430	Pickard, Mr. Berk (Berk Trembisky)
+431	Bjornstrom-Steffansson, Mr. Mauritz Hakan
+434	Kallio, Mr. Nikolai Erland
+435	Silvey, Mr. William Baird
+439	Fortune, Mr. Mark
+440	Kvillner, Mr. Johan Henrik Johannesson
+442	Hampe, Mr. Leon
+443	Petterson, Mr. Johan Emil
+445	Johannesen-Bratthammer, Mr. Bernt
+446	Dodge, Master. Washington
+448	Seward, Mr. Frederic Kimber
+451	West, Mr. Edwy Arthur
+452	Hagland, Mr. Ingvald Olai Olsen
+453	Foreman, Mr. Benjamin Laventall
+454	Goldenberg, Mr. Samuel L
+455	Peduzzi, Mr. Joseph
+456	Jalsevac, Mr. Ivan
+457	Millet, Mr. Francis Davis
+460	O'Connor, Mr. Maurice
+461	Anderson, Mr. Harry
+462	Morley, Mr. William
+463	Gee, Mr. Arthur H
+464	Milling, Mr. Jacob Christian
+465	Maisner, Mr. Simon
+466	Goncalves, Mr. Manuel Estanslas
+467	Campbell, Mr. William
+468	Smart, Mr. John Montgomery
+469	Scanlan, Mr. James
+471	Keefe, Mr. Arthur
+472	Cacic, Mr. Luka
+476	Clifford, Mr. George Quincy
+477	Renouf, Mr. Peter Henry
+478	Braund, Mr. Lewis Richard
+479	Karlsson, Mr. Nils August
+481	Goodwin, Master. Harold Victor
+482	"Frost, Mr. Anthony Wood ""Archie"""
+483	Rouse, Mr. Richard Henry
+485	Bishop, Mr. Dickinson H
+488	Kent, Mr. Edward Austin
+489	Somerton, Mr. Francis William
+490	"Coutts, Master. Eden Leslie ""Neville"""
+491	Hagland, Mr. Konrad Mathias Reiersen
+492	Windelov, Mr. Einar
+493	Molson, Mr. Harry Markland
+494	Artagaveytia, Mr. Ramon
+495	Stanley, Mr. Edward Roland
+496	Yousseff, Mr. Gerious
+498	Shellard, Mr. Frederick William
+500	Svensson, Mr. Olof
+501	Calic, Mr. Petar
+506	Penasco y Castellana, Mr. Victor de Satode
+508	"Bradley, Mr. George (""George Arthur Brayton"")"
+509	Olsen, Mr. Henry Margido
+510	Lang, Mr. Fang
+511	Daly, Mr. Eugene Patrick
+512	Webber, Mr. James
+513	McGough, Mr. James Robert
+515	Coleff, Mr. Satio
+516	Walker, Mr. William Anderson
+518	Ryan, Mr. Patrick
+520	Pavlovic, Mr. Stefo
+522	Vovk, Mr. Janko
+523	Lahoud, Mr. Sarkis
+525	Kassem, Mr. Fared
+526	Farrell, Mr. James
+528	Farthing, Mr. John
+529	Salonen, Mr. Johan Werner
+530	Hocking, Mr. Richard George
+532	Toufik, Mr. Nakli
+533	Elias, Mr. Joseph Jr
+539	Risien, Mr. Samuel Beard
+544	Beane, Mr. Edward
+545	Douglas, Mr. Walter Donald
+546	Nicholson, Mr. Arthur Ernest
+548	Padro y Manent, Mr. Julian
+549	Goldsmith, Mr. Frank John
+550	Davies, Master. John Morgan Jr
+551	Thayer, Mr. John Borland Jr
+552	Sharp, Mr. Percival James R
+553	O'Brien, Mr. Timothy
+554	"Leeni, Mr. Fahim (""Philip Zenni"")"
+556	Wright, Mr. George
+558	Robbins, Mr. Victor
+561	Morrow, Mr. Thomas Rowan
+562	Sivic, Mr. Husein
+563	Norman, Mr. Robert Douglas
+564	Simmons, Mr. John
+566	Davies, Mr. Alfred J
+567	Stoytcheff, Mr. Ilia
+569	Doharr, Mr. Tannous
+570	Jonsson, Mr. Carl
+571	Harris, Mr. George
+573	"Flynn, Mr. John Irwin (""Irving"")"
+575	Rush, Mr. Alfred George John
+576	Patchett, Mr. George
+580	Jussila, Mr. Eiriik
+583	Downton, Mr. William James
+584	Ross, Mr. John Hugo
+585	Paulner, Mr. Uscher
+587	Jarvis, Mr. John Denzil
+588	Frolicher-Stehli, Mr. Maxmillian
+589	Gilinski, Mr. Eliezer
+590	Murdlin, Mr. Joseph
+591	Rintamaki, Mr. Matti
+593	Elsbury, Mr. William James
+595	Chapman, Mr. John Henry
+596	Van Impe, Mr. Jean Baptiste
+598	Johnson, Mr. Alfred
+599	Boulos, Mr. Hanna
+602	Slabenoff, Mr. Petco
+603	Harrington, Mr. Charles H
+604	Torber, Mr. Ernst William
+605	"Homer, Mr. Harry (""Mr E Haven"")"
+606	Lindell, Mr. Edvard Bengtsson
+607	Karaic, Mr. Milan
+608	Daniel, Mr. Robert Williams
+612	Jardin, Mr. Jose Neto
+614	Horgan, Mr. John
+615	Brocklebank, Mr. William Alfred
+617	Danbom, Mr. Ernst Gilbert
+620	Gavey, Mr. Lawrence
+621	Yasbeck, Mr. Antoni
+622	Kimball, Mr. Edwin Nelson Jr
+623	Nakid, Mr. Sahid
+624	Hansen, Mr. Henry Damsgaard
+625	"Bowen, Mr. David John ""Dai"""
+626	Sutton, Mr. Frederick
+629	Bostandyeff, Mr. Guentcho
+630	O'Connell, Mr. Patrick D
+631	Barkworth, Mr. Algernon Henry Wilson
+632	Lundahl, Mr. Johan Svensson
+634	Parr, Mr. William Henry Marsh
+637	Leinonen, Mr. Antti Gustaf
+638	Collyer, Mr. Harvey
+640	Thorneycroft, Mr. Percival
+641	Jensen, Mr. Hans Peder
+644	Foo, Mr. Choong
+646	Harper, Mr. Henry Sleeper
+647	Cor, Mr. Liudevit
+649	Willey, Mr. Edward
+651	Mitkoff, Mr. Mito
+653	Kalvik, Mr. Johannes Halvorsen
+656	Hickman, Mr. Leonard Mark
+657	Radeff, Mr. Alexander
+659	Eitemiller, Mr. George Floyd
+660	Newell, Mr. Arthur Webster
+662	Badt, Mr. Mohamed
+663	Colley, Mr. Edward Pomeroy
+664	Coleff, Mr. Peju
+665	Lindqvist, Mr. Eino William
+666	Hickman, Mr. Lewis
+667	Butler, Mr. Reginald Fenton
+668	Rommetvedt, Mr. Knud Paust
+669	Cook, Mr. Jacob
+672	Davidson, Mr. Thornton
+673	Mitchell, Mr. Henry Michael
+674	Wilhelms, Mr. Charles
+675	Watson, Mr. Ennis Hastings
+676	Edvardsson, Mr. Gustaf Hjalmar
+677	Sawyer, Mr. Frederick Charles
+680	Cardeza, Mr. Thomas Drake Martinez
+682	Hassab, Mr. Hammad
+683	Olsvigen, Mr. Thor Anderson
+684	Goodwin, Mr. Charles Edward
+685	Brown, Mr. Thomas William Solomon
+686	Laroche, Mr. Joseph Philippe Lemercier
+687	Panula, Mr. Jaako Arnold
+688	Dakic, Mr. Branko
+689	Fischer, Mr. Eberhard Thelander
+691	Dick, Mr. Albert Adrian
+693	Lam, Mr. Ali
+694	Saad, Mr. Khalil
+696	Chapman, Mr. Charles Henry
+697	Kelly, Mr. James
+699	Thayer, Mr. John Borland
+700	Humblen, Mr. Adolf Mathias Nicolai Olsen
+702	Silverthorne, Mr. Spencer Victor
+704	Gallagher, Mr. Martin
+705	Hansen, Mr. Henrik Juul
+706	"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")"
+708	Calderhead, Mr. Edward Pennington
+710	"Moubarek, Master. Halim Gonios (""William George"")"
+712	Klaber, Mr. Herman
+713	Taylor, Mr. Elmer Zebley
+714	Larsson, Mr. August Viktor
+715	Greenberg, Mr. Samuel
+716	Soholt, Mr. Peter Andreas Lauritz Andersen
+719	McEvoy, Mr. Michael
+720	Johnson, Mr. Malkolm Joackim
+722	Jensen, Mr. Svend Lauritz
+723	Gillespie, Mr. William Henry
+724	Hodges, Mr. Henry Price
+725	Chambers, Mr. Norman Campbell
+726	Oreskovic, Mr. Luka
+729	Bryhl, Mr. Kurt Arnold Gottfrid
+732	Hassan, Mr. Houssein G N
+733	Knight, Mr. Robert J
+734	Berriman, Mr. William John
+735	Troupiansky, Mr. Moses Aaron
+736	Williams, Mr. Leslie
+738	Lesurer, Mr. Gustave J
+739	Ivanoff, Mr. Kanio
+740	Nankoff, Mr. Minko
+741	Hawksford, Mr. Walter James
+742	Cavendish, Mr. Tyrell William
+744	McNamee, Mr. Neal
+745	Stranden, Mr. Juho
+747	Abbott, Mr. Rossmore Edward
+749	Marvin, Mr. Daniel Warner
+750	Connaghton, Mr. Michael
+752	Moor, Master. Meier
+753	Vande Velde, Mr. Johannes Joseph
+754	Jonkoff, Mr. Lalio
+756	Hamalainen, Master. Viljo
+757	Carlsson, Mr. August Sigfrid
+758	Bailey, Mr. Percy Andrew
+759	Theobald, Mr. Thomas Leonard
+761	Garfirth, Mr. John
+762	Nirva, Mr. Iisakki Antino Aijo
+763	Barah, Mr. Hanna Assi
+765	Eklund, Mr. Hans Linus
+769	Moran, Mr. Daniel J
+770	Gronnestad, Mr. Daniel Danielsen
+771	Lievens, Mr. Rene Aime
+772	Jensen, Mr. Niels Peder
+774	Elias, Mr. Dibo
+776	Myhrman, Mr. Pehr Fabian Oliver Malkolm
+777	Tobin, Mr. Roger
+779	Kilgannon, Mr. Thomas J
+783	Long, Mr. Milton Clyde
+784	Johnston, Mr. Andrew G
+785	Ali, Mr. William
+786	Harmer, Mr. Abraham (David Lishin)
+788	Rice, Master. George Hugh
+789	Dean, Master. Bertram Vere
+790	Guggenheim, Mr. Benjamin
+791	"Keane, Mr. Andrew ""Andy"""
+792	Gaskell, Mr. Alfred
+794	Hoyt, Mr. William Fisher
+795	Dantcheff, Mr. Ristiu
+796	Otter, Mr. Richard
+799	Ibrahim Shawah, Mr. Yousseff
+801	Ponesell, Mr. Martin
+803	Carter, Master. William Thornton II
+804	Thomas, Master. Assad Alexander
+805	Hedman, Mr. Oskar Arvid
+806	Johansson, Mr. Karl Johan
+807	Andrews, Mr. Thomas Jr
+809	Meyer, Mr. August
+811	Alexander, Mr. William
+812	Lester, Mr. James
+813	Slemen, Mr. Richard James
+815	Tomlin, Mr. Ernest Portage
+816	Fry, Mr. Richard
+818	Mallet, Mr. Albert
+819	Holm, Mr. John Fredrik Alexander
+820	Skoog, Master. Karl Thorsten
+822	Lulic, Mr. Nikola
+825	Panula, Master. Urho Abraham
+826	Flynn, Mr. John
+827	Lam, Mr. Len
+828	Mallet, Master. Andre
+829	McCormack, Mr. Thomas Joseph
+832	Richards, Master. George Sibley
+833	Saad, Mr. Amin
+834	Augustsson, Mr. Albert
+835	Allum, Mr. Owen George
+837	Pasic, Mr. Jakob
+838	Sirota, Mr. Maurice
+839	Chip, Mr. Chang
+840	Marechal, Mr. Pierre
+841	Alhomaki, Mr. Ilmari Rudolf
+842	Mudd, Mr. Thomas Charles
+844	Lemberopolous, Mr. Peter L
+845	Culumovic, Mr. Jeso
+846	Abbing, Mr. Anthony
+847	Sage, Mr. Douglas Bullen
+848	Markoff, Mr. Marin
+851	Andersson, Master. Sigvard Harald Elias
+852	Svensson, Mr. Johan
+858	Daly, Mr. Peter Denis 
+860	Razi, Mr. Raihed
+861	Hansen, Mr. Claus Peter
+862	Giles, Mr. Frederick Edward
+865	Gill, Mr. John William
+868	Roebling, Mr. Washington Augustus II
+869	van Melkebeke, Mr. Philemon
+870	Johnson, Master. Harold Theodor
+871	Balkic, Mr. Cerin
+873	Carlsson, Mr. Frans Olof
+874	Vander Cruyssen, Mr. Victor
+877	Gustafsson, Mr. Alfred Ossian
+878	Petroff, Mr. Nedelio
+879	Laleff, Mr. Kristo
+882	Markun, Mr. Johann
+884	Banfield, Mr. Frederick James
+885	Sutehall, Mr. Henry Jr
+890	Behr, Mr. Karl Howell
+891	Dooley, Mr. Patrick
